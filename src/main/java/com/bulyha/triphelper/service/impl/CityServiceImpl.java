@@ -27,7 +27,7 @@ public class CityServiceImpl implements CityService {
 
     @Override
     public Optional<City> findByCityName(final String cityName) {
-        return cityRepository.findByCityName(cityName);
+        return cityRepository.findByCityNameIgnoreCaseContaining(cityName);
     }
 
 

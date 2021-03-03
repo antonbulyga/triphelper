@@ -1,7 +1,7 @@
 package com.bulyha.triphelper.controller;
 
 import com.bulyha.triphelper.model.City;
-import com.bulyha.triphelper.model.CityDto;
+import com.bulyha.triphelper.dto.CityDto;
 import com.bulyha.triphelper.service.CityService;
 import com.bulyha.triphelper.utils.mapper.CityMapper;
 import lombok.extern.slf4j.Slf4j;

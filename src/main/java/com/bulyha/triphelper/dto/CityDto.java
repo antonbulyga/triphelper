@@ -1,4 +1,4 @@
-package com.bulyha.triphelper.model;
+package com.bulyha.triphelper.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,7 +1,7 @@
 package com.bulyha.triphelper.utils.mapper;
 
 import com.bulyha.triphelper.model.City;
-import com.bulyha.triphelper.model.CityDto;
+import com.bulyha.triphelper.dto.CityDto;
 import org.modelmapper.ModelMapper;
 import org.springframework.stereotype.Component;
 
